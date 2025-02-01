@@ -7,13 +7,13 @@ public class CuadradoProcess extends FigurasProcess<Cuadrado> {
 	@Override
 	protected Double perimetro(Cuadrado figura) {
 		// TODO Auto-generated method stub
-		return null;
+		return figura.getLado()*4;
 	}
 
 	@Override
 	protected Double area(Cuadrado figura) {
 		// TODO Auto-generated method stub
-		return null;
+		return figura.getLado()*figura.getLado();
 	}
 
 	
