@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="programacionObjetos/src/main/java"/>
+	<classpathentry kind="lib" path="programacionObjetos/target/programacionObjetos-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="programacionObjetos/target/classes"/>
+</classpath>

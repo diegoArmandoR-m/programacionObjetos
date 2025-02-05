@@ -62,8 +62,9 @@ public class Figuras {
         System.out.println(processregu.perimetro(regu));
         System.out.println(processregu.area(regu));
         System.out.println("Rombo");
-        System.out.println(processrom.perimetro(rom));
-        System.out.println(processrom.area(rom));
+        processrom.calcula(rom);
+        //System.out.println(processrom.perimetro(rom));
+        //System.out.println(processrom.area(rom));
         System.out.println("Triangulo");
         System.out.println(processtri.perimetro(tri));
         System.out.println(processtri.area(tri));
@@ -77,5 +78,7 @@ public class Figuras {
         //Herencia 
         // obtener los datos del "papa"
         
+        //J-son se usa para la base de datos no relcionales 
+        //SQL base de datos ralcional 
     }
 }
