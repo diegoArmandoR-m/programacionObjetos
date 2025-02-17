@@ -26,7 +26,7 @@ public class Figuras {
         Triangulo tri = new Triangulo();
         
         
-        cua.setLado(5D);
+        cua.setLado(2D);
         cir.setRadio(3D);
         rec.setLado(4D);
         rec.setAncho(6D);
